@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777158649 source:d:\cppapp\proplemsolving\proplem\projects\string_library\string\clsstring\clsstring.cpp
+	"clsString.h"
+
+1777158528 source:d:\cppapp\proplemsolving\proplem\projects\string_library\string\main.cpp
+	<iostream>
+	<vector>
+	"clsString/clsString.h"
+
+1777158447 d:\cppapp\proplemsolving\proplem\projects\string_library\string\clsstring\clsstring.h
+	<iostream>
+	<string>
+	<vector>
+
